@@ -2,7 +2,7 @@
   "name": "be-pets-and-owners",
   "version": "1.0.0",
   "description": "To get your tasks head to:  https://l2c.northcoders.com/courses/be/pets-and-owners",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
